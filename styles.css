@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to right, #6A11CB, #2575FC);
+}
+
+section {
+    background: white;
+    box-shadow: 0px 0px 2px 0px;
+    margin-left: 32%;
+    margin-right: 32%;
+    height: 92vh;
+    border-radius: 16px;
+    margin-top: 29px;
+    font-size: 19px;
+}
+
+.sign-up_text {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-up_username {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-up_password {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-up_btn {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-in_text {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-in_username {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-in_password {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-in_btn {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-up {
+    padding-top: 5px;
+}
+
+.sign-in {
+    padding-top: 8px;
+}
+
+.sign-in-password {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.sign-in-username {
+    padding: 10px;
+}
+
+.sign-up-password {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.sign-up-username {
+    padding: 10px;
+}
+
+.sign-up_btn button {
+    margin-top: 19px;
+    padding: 10px;
+    background-color: rgb(104,14,205);
+    color: white;
+    border: 0px;
+    padding: 13px;
+    border-radius: 7px;
+}
+
+.sign-in_btn button {
+    margin-top: 19px;
+    padding: 10px;
+    background-color: rgb(104,14,205);
+    color: white;
+    border: 0px;
+    padding: 13px;
+    border-radius: 7px;
+}
